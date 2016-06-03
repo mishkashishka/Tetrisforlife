@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\hp\desktop\семестровая\mashinki\mashinki\source.cpp(52): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+c:\users\hp\desktop\семестровая\mashinki\mashinki\source.cpp(72): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+c:\users\hp\desktop\семестровая\mashinki\mashinki\source.cpp(111): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+  Mashinki.vcxproj -> C:\Users\hp\Desktop\семестровая\Mashinki\Debug\Mashinki.exe
